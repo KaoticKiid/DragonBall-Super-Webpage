@@ -1,0 +1,25 @@
+body{
+    font-family: 'Indie Flower', cursive;
+    background-color:cyan;
+    background-size: cover;
+    }
+    
+    h1{
+      font-family: 'Bitter', serif;
+      font-size: 24px;
+      color:DeepPink;
+      text-transform:uppercase;
+    }
+    
+    nav{
+     font-family: 'Mogra', cursive;
+      color:midnightblue;
+      font-size: 25px;
+     
+    }
+    
+    H3{
+      font-family: 'Vibur', cursive;
+    
+    }
+    
