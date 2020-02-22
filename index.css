@@ -1,0 +1,107 @@
+html {
+    background-color: #202020;
+}
+
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color: #101010;
+    background-size: cover;
+    color: #FFF;
+    text-align: center;
+    max-width: 1440px;
+    margin: auto;
+    border: 5px solid black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: gold;
+}
+
+#content {
+    margin: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #0A0A0A;
+    box-shadow: 3px 3px 6px black;
+}
+
+.header {
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    font-size: 0.8rem;
+    overflow: hidden;
+}
+
+.logo {
+    width: 50%;
+}
+
+.names {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: goldenrod;
+    padding: 20px;
+    color: #000;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.character {
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    border-bottom: 3px solid orange;
+    padding: 20px;
+}
+
+.character-name {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gold;
+}
+
+.character-image {
+    flex: 1;
+    height: 85%;
+    width: 15%;
+}
+
+.character-description {
+    margin: 20px;
+}
+
+.character-video {
+    max-height: 95%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px black;
+}
+
+#footer {
+    border: 3px dashed black;
+    background-color: goldenrod;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 5%;
+    opacity: 0.9;
+}
+
+#footer p {
+    color: black;
+    font-style: italic;
+}
+
+#footer h3 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: #000;
+    text-shadow: 2px 2px 4px orange;
+}
