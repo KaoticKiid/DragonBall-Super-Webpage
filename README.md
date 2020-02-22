@@ -2,4 +2,4 @@ Just wanted to clean up a simple web page and decided it should be for Dragon Ba
 
 Thanks @KaoticKiid
 
-<img src="https://github.com/Digicrest/DragonBall-Super-Webpage/preview.png" width="65%"/>
+<img src="https://github.com/Digicrest/DragonBall-Super-Webpage/blob/master/preview.png" width="65%"/>
